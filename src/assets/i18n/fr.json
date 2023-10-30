@@ -1,0 +1,23 @@
+{
+    "HOME_PAGE_TITLE": "Page d'accueil",
+    "PRESENTATION_TITLE": "Prêt à créer une application ?",
+    "FIELDS": {
+      "PASSWORD": {
+        "LABEL": "Mot de passe",
+        "PLACEHOLDER": "Tapez votre mot de passe",
+        "SHOW_PASSWORD_VISIBILITY": "Montrez votre mot de passe",
+        "HIDE_PASSWORD_VISIBILITY": "Cachez votre mot de passe"
+      },
+      "EMAIL": {
+        "LABEL": "E-mail",
+        "PLACEHOLDER": "Entrer votre Email"
+      }
+    },
+    "FORM_VALIDATION_MESSAGES": {
+      "REQUIRED": "Ce champ est obligatoire.",
+      "INVALID": "Ce champ n'est pas valide.",
+      "EMAIL": "Le courriel est invalide.",
+      "WEAK_PASSWORD": "Votre mot de passe doit contenir..."
+    }
+  }
+  

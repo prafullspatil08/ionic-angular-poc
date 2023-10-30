@@ -1,0 +1,23 @@
+{
+    "HOME_PAGE_TITLE": "होम पेज",
+    "PRESENTATION_TITLE": "एक ऐप बनाने के लिए तैयार हैं?",
+    "FIELDS": {
+      "PASSWORD": {
+        "LABEL": "पासवर्ड",
+        "PLACEHOLDER": "अपना कूटशब्द भरें",
+        "SHOW_PASSWORD_VISIBILITY": "अपना पासवर्ड दिखाओ",
+        "HIDE_PASSWORD_VISIBILITY": "अपना पासवर्ड छिपाएँ"
+      },
+      "EMAIL": {
+        "LABEL": "ईमेल",
+        "PLACEHOLDER": "अपना ईमेल दर्ज करें"
+      }
+    },
+    "FORM_VALIDATION_MESSAGES": {
+      "REQUIRED": "यह फ़ील्ड आवश्यक है.",
+      "INVALID": "यह फ़ील्ड अमान्य है.",
+      "EMAIL": "ईमेल अमान्य है।",
+      "WEAK_PASSWORD": "आपके पासवर्ड में अवश्य होना चाहिए..."
+    }
+  }
+  

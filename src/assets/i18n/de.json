@@ -1,0 +1,31 @@
+{
+    "HOME_PAGE_TITLE": "Startseite",
+    "PRESENTATION_TITLE": "Sind Sie bereit, eine App zu erstellen?",
+    "FIELDS": {
+      "PASSWORD": {
+        "LABEL": "Passwort",
+        "PLACEHOLDER": "Geben Sie Ihr Passwort ein",
+        "SHOW_PASSWORD_VISIBILITY": "Zeigen Sie Ihr Passwort",
+        "HIDE_PASSWORD_VISIBILITY": "Verstecken Sie Ihr Passwort"
+      },
+      "EMAIL": {
+        "LABEL": "E-mail",
+        "PLACEHOLDER": "Geben sie ihre E-Mail Adresse ein"
+      },
+      "SELECT": {
+        "PLACEHOLDER": "Select an option",
+        "OK_TEXT": "OK",
+        "CANCEL_TEXT": "Dismiss"
+      },
+      "FILE": {
+        "PLACEHOLDER": "Drag & drop a file here"
+      }
+    },
+    "FORM_VALIDATION_MESSAGES": {
+      "REQUIRED": "Dieses Feld ist erforderlich.",
+      "INVALID": "Dieses Feld ist ungültig.",
+      "EMAIL": "E-Mail ist ungültig.",
+      "WEAK_PASSWORD": "Ihr Passwort muss Folgendes enthalten:"
+    }
+  }
+  

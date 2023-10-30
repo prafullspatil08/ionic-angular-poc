@@ -1,0 +1,23 @@
+{
+    "HOME_PAGE_TITLE": "Página de inicio",
+    "PRESENTATION_TITLE": "¿Listo para crear una aplicación?",
+    "FIELDS": {
+      "PASSWORD": {
+        "LABEL": "Contraseña",
+        "PLACEHOLDER": "Ingresa tu contraseña",
+        "SHOW_PASSWORD_VISIBILITY": "Muestra tu contraseña",
+        "HIDE_PASSWORD_VISIBILITY": "Oculta tu contraseña"
+      },
+      "EMAIL": {
+        "LABEL": "Correo electrónico",
+        "PLACEHOLDER": "Introduce tu correo electrónico"
+      }
+    },
+    "FORM_VALIDATION_MESSAGES": {
+      "REQUIRED": "Este campo es obligatorio.",
+      "INVALID": "Este campo no es válido.",
+      "EMAIL": "El correo electrónico es invalido.",
+      "WEAK_PASSWORD": "Su contraseña debe contener..."
+    }
+  }
+  
